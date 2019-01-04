@@ -6,8 +6,6 @@ Empirical test of the "BIG O" notation and gcc optimization flags of the **Inser
 - Filling array by time execution of sort.
 - Creating output file with results.(You can visualize your results by gnuplot).
 
-## See ![results](https://github.com/Jayawardenepura/GL-C-Embeedded/tree/master/O-notation-tests/insertion-sort-test/results)
-
 ## Execute:
 - make all
 
